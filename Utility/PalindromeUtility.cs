@@ -2,7 +2,7 @@
 {
     public class PalindromeUtility
     {
-        bool checkIsPalindrome(string input) {
+        public bool CheckIsPalindrome(string input) {
            
             var length = input.Length;
 
